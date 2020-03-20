@@ -1,0 +1,1 @@
+SELECT `nro_docu`, `nombre`, `apellido` FROM evento WHERE `tipo_docu` = 1 ORDER BY `nro_docu`;
